@@ -2,7 +2,7 @@
 <h1 align="centre">
   < a href ="https://git.io/typying-svg">
     <img scrc=https://readme-typing-svg.herokuapp.com/?>
- font=Righteous&size=35&true&vCentre=true&width=500&height=70&duration=40000 &lines=Hi+there!; +i'm+ Anjani!;"/>
+ font=Righteous&size=35&true&vCentre=true&width=500&height=70&duration=40000&lines=Hi+there!; +i'm+ Anjani!;"/>
   </a>
 </h1>
 <div align="centre">
