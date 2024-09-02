@@ -1,21 +1,56 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anjani-ai.anjani-ai"/>
-<h1 align="centre">
-  < a href ="https://git.io/typying-svg">
-    <img scrc=https://readme-typing-svg.herokuapp.com/?>
- font=Righteous&size=35&true&vCentre=true&width=500&height=70&duration=40000&lines=Hi+there!; +i'm+ Anjani!;"/>
-  </a>
-</h1>
-<div align="centre">
-  <a href="mailto:mail@anjani.ai">
-    <img src="https://img.shields.io/badge/Gmail-3333333?style=for-the-badge&logo=gmail&logoColor="red" target="_blank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anjani-devireddy-43316a277/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedIn-007785?for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    
-=- 👋 Hi, I’m @anjani-ai
-- 👀 I’m interested in AI&ML
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+-I'm Anjani
+
+- I’m interested in AI&ML
 - 📫 How to reach me: mail@anjani.ai
-- 😄 Pronouns: she/her
+
+  
+  <br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>JAVA</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>c++</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>R</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"> 
+</td>
+</tr>
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-ai&show_icons=true)
+
+
+
+
+  ![ Github Stats](https://github-readme-stats.vercel.app/api?username=anjani-ai&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+  
+
 <!---
 anjani-ai/anjani-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
