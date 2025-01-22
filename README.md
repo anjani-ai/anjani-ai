@@ -1,55 +1,70 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
--I'm Anjani
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Hi there! I'm Anjani">
+</p>
 
-- I’m interested in AI&ML
-- 📫 How to reach me: mail@anjani.ai
+<h2 align="center">👋 I'm Anjani</h2>
 
-  
-  <br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>JAVA</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png"> 
-</td>
+### 🌟 About Me:
+- 💻 Passionate about Artificial Intelligence & Machine Learning.
+- 📫 Reach me at: [mail@anjani.ai](mailto:mail@anjani.ai)
 
-<td align="center" width="20%">
-<span><b><center>C</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> 
-</td>
-</tr>
+---
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>c++</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> 
-</td>
+### 🛠️ Technologies & Tools:
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="20%">
+        <span><b>JAVA</b></span><br>
+        <img height="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java">
+      </td>
+      <td align="center" width="20%">
+        <span><b>Python</b></span><br>
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" alt="Python">
+      </td>
+      <td align="center" width="20%">
+        <span><b>C</b></span><br>
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C">
+      </td>
+      <td align="center" width="20%">
+        <span><b>C++</b></span><br>
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++">
+      </td>
+      <td align="center" width="20%">
+        <span><b>R</b></span><br>
+        <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="5" width="100%">
+        <span><b>Git</b></span><br>
+        <img height="60px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<td align="center" width="20%">
-<span><b><center>R</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"> 
-</td>
-</tr>
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
+---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjani-ai&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-ai&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-ai&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
+---
 
+### 🌐 Let's Connect:
+- 🌍 Portfolio: [anjani.ai](https://anjani.ai)
+- 💼 LinkedIn: [Anjani Devireddy](https://www.linkedin.com/in/anjani-devireddy)
+- 🐙 GitHub: [anjani-ai](https://github.com/anjani-ai)
 
-
-  ![ Github Stats](https://github-readme-stats.vercel.app/api?username=anjani-ai&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-  
+---
 
 <!---
 anjani-ai/anjani-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
