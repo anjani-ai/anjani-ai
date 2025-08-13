@@ -33,7 +33,6 @@
   </tbody>
 </table>
 
-Check out my GitHub Skyline 🏙 → https://skyline.github.com/anjani-ai
 
 
 ---
