@@ -33,7 +33,8 @@
   </tbody>
 </table>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Check out my GitHub Skyline 🏙 → https://skyline.github.com/anjani-ai
+
 
 ---
 
