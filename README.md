@@ -4,16 +4,11 @@
 </p>
 
 <h2 align="center">🚀 AI Enthusiast | Problem Solver | Lifelong Learner</h2>
-<p align="center">Turning ideas into impactful AI-driven solutions ✨</p>
 
 ---
 
 ## 🌟 About Me  
 - 💻 Passionate about **Artificial Intelligence & Machine Learning**  
-- 🏆 **Winner** – Smart India Hackathon 2024  
-- 🎓 Completed **Harvard's CS50 AI** course  
-- ✈️ **Remote Pilot Certified** (DGCA India)  
-- 🤝 **CUAV 2024 Sponsorship Recipient**  
 - 📫 Reach me at: **[mail@anjani.ai](mailto:mail@anjani.ai)**  
 
 ---
@@ -81,5 +76,4 @@
 
 ---
 
-💡 _"The best way to predict the future is to create it."_  
 📬 Always open for collaboration in **AI, IoT, and Computer Vision!**  
