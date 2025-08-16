@@ -65,10 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anjani-ai&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjani-ai&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 ---
 
 ## 🌐 Let's Connect  
